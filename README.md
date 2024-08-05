@@ -1,5 +1,5 @@
-# <img src="https://github.com/esmBot/esmBot/raw/master/docs/assets/esmbot.png" width="128"> BlackHole
-[![esmBot Support](https://discordapp.com/api/guilds/592399417676529688/embed.png)](https://discord.gg/esmbot) ![GitHub license](https://img.shields.io/github/license/esmBot/esmBot.svg)
+# <img src="https://raw.githubusercontent.com/CrimZonQH/BlackHole-Giveaway-bot/main/blackhole.png" width="128"> BlackHole
+[![esmBot Support](https://discordapp.com/api/guilds/592399417676529688/embed.png)](https://discord.gg/CJFXDDmngs) ![GitHub license](https://img.shields.io/github/license/esmBot/esmBot.svg)
 
 # BlackHole Bot - FAQ 
 Elevate your Discord server with BlackHole Bot, the pinnacle of advanced giveaway solutions. Whether you're organizing simple raffles or intricate multi-tiered contests, BlackHole Bot provides unmatched versatility and functionality to ensure your giveaways are seamless and successful.
