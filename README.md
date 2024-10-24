@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/CrimZonQH/BlackHole-Giveaway-bot/main/blackhole.png" width="128"> BlackHole
-[![esmBot Support](https://discordapp.com/api/guilds/592399417676529688/embed.png)](https://discord.gg/CJFXDDmngs) ![GitHub license](https://img.shields.io/github/license/esmBot/esmBot.svg)
+# <img src="https://raw.githubusercontent.com/CrimZonQH/BlackHole-Giveaway-bot/main/blackhole.png" width="128"> AvaronBot
+[![AvaronBot Support](https://discordapp.com/api/guilds/592399417676529688/embed.png)](https://discord.gg/x4mvQqJcRk) ![GitHub license](https://img.shields.io/github/license/esmBot/esmBot.svg)
 
-# Avaron Bot - FAQ 
+# AvaronBot - FAQ 
 AvaronBot, The all-in-one Discord bot for moderation, fun commands, giveaways, auto ticket-messages, and server management... and mush more!
 
 ## Why Choose AvaronBot?
@@ -49,7 +49,7 @@ Not only this, add bot to see more and all Avaron Futures. [Invite Me](https://d
 - COMING SOON...
 
 ## Usage
-1. Invite Bot to your server: [Invite Me](https://discord.com/oauth2/authorize/?permissions=939565145&scope=bot&client_id=1269782006208659588)
+1. Invite Bot to your Discord server: [Invite Me](https://discord.com/oauth2/authorize/?permissions=939565145&scope=bot&client_id=1269782006208659588)
 2. Use __**/help**__ or __**$help**__ to see all AvaronBot commands. 
 3. Enjoi! :)
    ## Developer's: 🛠
