@@ -1,32 +1,57 @@
 # <img src="https://raw.githubusercontent.com/CrimZonQH/BlackHole-Giveaway-bot/main/blackhole.png" width="128"> BlackHole
 [![esmBot Support](https://discordapp.com/api/guilds/592399417676529688/embed.png)](https://discord.gg/CJFXDDmngs) ![GitHub license](https://img.shields.io/github/license/esmBot/esmBot.svg)
 
-# BlackHole Bot - FAQ 
-Elevate your Discord server with BlackHole Bot, the pinnacle of advanced giveaway solutions. Whether you're organizing simple raffles or intricate multi-tiered contests, BlackHole Bot provides unmatched versatility and functionality to ensure your giveaways are seamless and successful.
+# Avaron Bot - FAQ 
+AvaronBot, The all-in-one Discord bot for moderation, fun commands, giveaways, auto ticket-messages, and server management... and mush more!
 
-## Why Choose BlackHole Bot?
-- **Advanced & Smart Giveaways:** Experience the most advanced and intelligent giveaway hosting, designed for efficiency and ease of use. Enjoy the fastest, most reliable system for managing your giveaways.
-- **Comprehensive Giveaway Management:** Effortlessly handle all types of giveaways with sophisticated customization options to suit any occasion.
-- **Cutting-Edge Command Support:** Benefit from the latest in command technology with both intuitive slash commands and familiar prefix commands.
-- **User Engagement Tools:** Boost interaction with a suite of features, including /avatar, user info retrieval, and more.
-- **Entertaining & Practical Commands:** Keep your community entertained and organized with a wide array of fun and utility commands.
-- **Customizable Giveaways:** Tailor your giveaways to your exact preferences, allowing you to control every aspect to suit your needs.
-- **Free to Use:** Access all these powerful features at no cost, making it the perfect addition to any server.
+## Why Choose AvaronBot?
+🤖 **AvaronBot**, is your all-in-one Discord bot designed to elevate your server management experience! 🚀 Packed with powerful features, Avaron simplifies moderation, brings fun commands, and enhances community engagement—all for free! No other bot provides such a wide range of features without any cost.
 
-Not only this, add bot to see more and all BlackHole Futures. [Invite Me](https://discord.com/oauth2/authorize/?permissions=939565145&scope=bot&client_id=1269782006208659588)
+🌟 Core Features:
+- 🛡️ **Moderation Commands:**  Keep your server safe with commands like $ban, $kick, $mute, and $warn. Supports multi-server moderation to help you manage multiple communities with ease.
+
+- 🎉 **Fun Commands:**  Boost engagement with a variety of fun commands like **$meme**, **$8ball**, **$joke**, and more to keep your community entertained!
+
+- 🎁  **Advenced Giveaways System:** Create and manage giveaways effortlessly with commands like **$gstart**,**$gend,** and **$greroll**. Keep your members excited and engaged with zero hassle.
+
+- 🎙️ **Temporary Voice Channels:** Set up temporary voice channels on demand with customizable settings to keep your server organized and reduce clutter—no more unused channels!
+
+- 📩  **Auto Ticket System:**  Create fully customizable ticket messages for support and member queries. Set up an auto ticket system that adapts to your server's needs without any additional cost.
+
+- 👥 Role & Channel Management:  Easily manage roles, create categories, and set up channels for efficient server organization. No need for multiple bots when Avaron does it all!
+
+
+🤖 And now, we come to the best and latest feature of the bot: 🛡️
+
+🛡️ **Server Protection:**
+**Avaron** also provides robust server protection features to keep your Discord community safe and secure. With its advanced moderation tools and automated defenses, Avaron ensures a smooth and safe environment for all members:
+
+**1.** Anti-Spam Protection:  Automatically detects and blocks spam messages to prevent spam raids and flooding.
+
+**2.** Anti-Raid Measures:  Protect your server from mass join raids with configurable limits and automated actions to counter potential threats.
+
+**3.** Auto Moderation:  Set up customizable filters for bad words, links, and more. Avaron can automatically mute, kick, or ban users based on rule violations.
+
+**4.** Logging System:  Detailed logging of moderation actions like bans, kicks, mutes, and deleted messages to keep track of everything happening on your server.
+
+**5.** Anti-Phishing Protection:  Detects and blocks malicious links and potential phishing attempts to keep your community safe from online threats.
+
+**6.** Role and Permission Management:  Secure your server with role-based permissions and manage access to channels and features easily.
+
+**7.** Captcha Verification:  Ensure only real users join your server by adding a captcha verification step for new members to prevent bot accounts.
+
+
+What sets **Avaron** apart is its commitment to providing these advanced features without any premium charges! 🌐 With continuous updates and new functionalities rolling out regularly, Avaron keeps evolving to meet your server's needs. Elevate your Discord experience today with the only bot you'll ever need—reliable, feature-rich, and always improving!
+
+Not only this, add bot to see more and all Avaron Futures. [Invite Me](https://discord.com/oauth2/authorize/?permissions=939565145&scope=bot&client_id=1269782006208659588)
 ## Features
 
 - COMING SOON...
 
 ## Usage
 1. Invite Bot to your server: [Invite Me](https://discord.com/oauth2/authorize/?permissions=939565145&scope=bot&client_id=1269782006208659588)
-2. Use __**/ghelp**__ or __**$ghelp**__ to see all BlackHole Bot commands. 
-3. To start hosting a giveaway use:
-   - **Prefix Command:**
-     $gstart
-     - **Slash command:**
-       /gcreate
-4. Enjoi! :)
+2. Use __**/help**__ or __**$help**__ to see all AvaronBot commands. 
+3. Enjoi! :)
    ## Developer's: 🛠
 
 Thanks go to these wonderful people:
