@@ -78,11 +78,11 @@ Thanks go to these wonderful people:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-🎉 BlackHole Giveaways Bot 🎉
+🎉 Avaron Discord Bot 🎉
 
 ## LICENSE
 
-[BlackHoleBot](LICENSE)
+[AvaronBot](LICENSE)
 ## Credits
 Icon by [Blazernsnake](https://twitter.com/Blazersnake).
 All images and fonts are copyright of their respective owners.
