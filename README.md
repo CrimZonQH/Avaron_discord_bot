@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/CrimZonQH/BlackHole-Giveaway-bot/main/blackhole.png" width="128"> AvaronBot
+# <img src="https://github.com/CrimZonQH/BlackHole-Giveaway-bot/blob/36e617c3f06b91a3e2738a4fbe2d68c06b8a4097/avaronlogo" width="128"> AvaronBot
 [![AvaronBot Support](https://discordapp.com/api/guilds/592399417676529688/embed.png)](https://discord.gg/x4mvQqJcRk) ![GitHub license](https://img.shields.io/github/license/esmBot/esmBot.svg)
 
 # AvaronBot - FAQ 
